@@ -1,6 +1,6 @@
 package com.service;
 
-import com.dao.EmployeeDAO;
+import com.jpaReposotory.EmployeeDAO;
 import com.entity.EmployeesEntity;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

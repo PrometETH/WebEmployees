@@ -1,7 +1,6 @@
-package com.dao;
+package com.jpaReposotory;
 
 import com.entity.DopinfoEntity;
-import com.entity.EmployeesEntity;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
 import org.springframework.stereotype.Repository;

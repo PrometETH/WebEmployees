@@ -1,7 +1,6 @@
-package com.dao;
+package com.jpaReposotory;
 
 import com.entity.DepartmentEntity;
-import org.springframework.stereotype.Repository;
 
 import java.util.List;
 

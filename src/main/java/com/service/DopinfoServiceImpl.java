@@ -1,9 +1,7 @@
 package com.service;
 
-import com.dao.DopinfoDAO;
-import com.dao.EmployeeDAO;
+import com.jpaReposotory.DopinfoDAO;
 import com.entity.DopinfoEntity;
-import com.entity.EmployeesEntity;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

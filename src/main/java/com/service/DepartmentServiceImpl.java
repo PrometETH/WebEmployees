@@ -1,9 +1,8 @@
 package com.service;
 
 
-import com.dao.DepartmentDAO;
+import com.jpaReposotory.DepartmentDAO;
 import com.entity.DepartmentEntity;
-import com.entity.DopinfoEntity;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

@@ -1,4 +1,4 @@
-package com.dao;
+package com.jpaReposotory;
 
 import com.entity.DepartmentEntity;
 import org.hibernate.Session;
